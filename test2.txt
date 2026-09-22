@@ -2,3 +2,4 @@
 edited from github
 again edited, now we configured crdential to git remember our credential,
 so it won't ask username passewd for everytime whenever we push 
+no still it's asks credentials. previous step failed
